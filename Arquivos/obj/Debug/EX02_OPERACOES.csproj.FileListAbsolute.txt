@@ -1,0 +1,7 @@
+C:\Users\bruna\source\repos\EX02_OPERACOES\obj\Debug\EX02_OPERACOES.csprojAssemblyReference.cache
+C:\Users\bruna\source\repos\EX02_OPERACOES\obj\Debug\EX02_OPERACOES.csproj.CoreCompileInputs.cache
+C:\Users\bruna\source\repos\EX02_OPERACOES\bin\Debug\EX02_OPERACOES.exe.config
+C:\Users\bruna\source\repos\EX02_OPERACOES\bin\Debug\EX02_OPERACOES.exe
+C:\Users\bruna\source\repos\EX02_OPERACOES\bin\Debug\EX02_OPERACOES.pdb
+C:\Users\bruna\source\repos\EX02_OPERACOES\obj\Debug\EX02_OPERACOES.exe
+C:\Users\bruna\source\repos\EX02_OPERACOES\obj\Debug\EX02_OPERACOES.pdb
